@@ -4,7 +4,7 @@ $GLOBALS['_ta_debug_mode'] = false; //To enable debug mode, set to true or load 
 
 require 'bootloader.php';
 
-$campaign_id = 'p13d0i';
+$campaign_id = 'n572ad';
 
 
 $ta = new TALoader($campaign_id);
